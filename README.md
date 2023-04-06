@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I just turned 20
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DennisMukirai)](https://github.com/DennisMukirai/github-profile-trophy)
-👯 I’m looking to collaborate on social media apps
-🌱 I’m currently learning Full Stack Software Engineering at ALX Africa
-⚡ Fun fact: I just turned 20
+-👯 I’m looking to collaborate on social media apps.
+
+-🌱 I’m currently learning Full Stack Software Engineering at ALX Africa.
+
+-⚡ Fun fact: I just turned 20.

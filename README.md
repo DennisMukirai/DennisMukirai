@@ -10,8 +10,11 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on social media apps
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: dennismukirai17@gmail.com
+👯 I’m looking to collaborate on social media apps
 - 😄 Pronouns: ...
 ⚡ Fun fact: I just turned 20
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=DennisMukirai)](https://github.com/DennisMukirai/github-profile-trophy)
+👯 I’m looking to collaborate on social media apps
+🌱 I’m currently learning Full Stack Software Engineering at ALX Africa
+⚡ Fun fact: I just turned 20

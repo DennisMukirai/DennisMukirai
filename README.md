@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 ⚡ Fun fact: I just turned 20
 -->
+ Hi there 👋
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DennisMukirai)](https://github.com/DennisMukirai/github-profile-trophy)
 
--👯 I’m looking to collaborate on social media apps.
+-👯 I’m looking to collaborate on building life changing softwares.
 
 -🌱 I’m currently learning Full Stack Software Engineering at ALX Africa.
 

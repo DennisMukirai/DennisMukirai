@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 ⚡ Fun fact: I just turned 20
 -->
- Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DennisMukirai)](https://github.com/DennisMukirai/github-profile-trophy)
 
@@ -24,4 +23,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: dennismukirai17@gmail.com
 
--⚡ Fun fact: I just turned 20.
+-⚡ Fun fact: I just turned 20 😄 
